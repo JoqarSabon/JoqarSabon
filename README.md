@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with other programmers
 - 💬 Ask me about projects
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact I'm a Furry
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joqarsabon&label=Profile%20views&color=0e75b6&style=flat" alt="joqarsabon" /> </p>
