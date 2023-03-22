@@ -13,8 +13,8 @@
 
 <h2>💬 &nbsp;Connect with me</h2>
 <p align="left">
-<a href="https://twitter.com/joqarsabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joqarsabon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johannes-rudolph-fisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johannes-rudolph-fisi" height="30" width="40" /></a>
+ <a href="https://github.com/JoqarSabon" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="joqarsabon" height="40" width="40" /></a>    
+<a href="https://twitter.com/joqarsabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joqarsabon" height="40" width="40" /></a>
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -36,11 +36,11 @@
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </p>
 
 
-<!--<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoqarSabon&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoqarSabon&theme=noctis_minimus&layout=compact" />
-</a>-->
+</a>
 
 <h2> 🐞 &nbsp;I can fix your bugs</h2>
 <p></p>
