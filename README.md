@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with other programmers
 - 💬 Ask me about projects
 - 😄 Pronouns: He/Him
