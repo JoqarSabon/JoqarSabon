@@ -47,6 +47,6 @@
 <h2> 🐞 &nbsp;I can fix your bugs</h2>
 <p></p>
 
-<img class="" src="./pictures/glitch.gif" width="500" height="500">
+<img class="" src="./pictures/glitch.gif">
 
 
