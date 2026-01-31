@@ -38,11 +38,11 @@
 </p>
 
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<!--<h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoqarSabon&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoqarSabon&theme=noctis_minimus&layout=compact" />
-</a>
+</a>-->
 
 <h2> 🐞 &nbsp;I can fix your bugs</h2>
 <p></p>
